@@ -1,0 +1,1 @@
+String imgUrl = "http://bornonbd.com/uploads/products/original/";
